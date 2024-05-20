@@ -13,8 +13,12 @@ Skills: HTML /CSS/TAILWIND/JAVASCRIPT/PYTHON/PHP/LARAVEL
 - 📫 How to reach me: mojahidulislamt17@gamil.com 
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mojahid-t17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mojahidul-islam-541a29228//)  
-
+<a href="https://github.com/mojahid-t17" style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/github.svg" alt="GitHub" height="40" width="40" style="display: block;">
+</a>
+<a href="https://www.linkedin.com/in/mojahidul-islam-541a29228/" style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" style="display: block;">
+</a>
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=mojahid-t17&show_icons=true&theme=radical)
 
