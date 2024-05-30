@@ -1,5 +1,4 @@
 
-![](https://media.licdn.com/dms/image/D5616AQHD7GfeyOugcA/profile-displaybackgroundimage-shrink_350_1400/0/1709920651313?e=1721865600&v=beta&t=hn8Xrm57F8t2BZkaEKeLlnaFyYtdr50EaIIcmjP2dt0)
 ### Hi there 👋, I am Mojahidul Islam 
 #### Student of CSE department in Bangladesh.
 
