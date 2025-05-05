@@ -26,7 +26,7 @@ I am a **Front End Web Developer** passionate about building and developing soft
 - **Firebase Authentication**
 
 ## 📫 How to reach me  
-- Email: [mojahidulislamt17@gmail.com](mailto:mojahidulislamt17@gmail.com)  
+- Email: [mojahidul.islam.puc@gmail.com](mailto:mojahidul.islam.puc@gmail.com)  
 
 ## Connect with me:  
 <p align="left">
