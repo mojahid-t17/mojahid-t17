@@ -5,6 +5,10 @@ I am a **Front End Web Developer** passionate about building and developing soft
 
 ## 🚀 Skills  
 
+**Machine Learning & Data Analysis Tools:**  
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white)
+
+
 **Frontend Development:**  
 - ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=black)   ![DaisyUI](https://img.shields.io/badge/DaisyUI-51C8A2?style=flat-square&logo=daisyui&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -23,6 +27,7 @@ I am a **Front End Web Developer** passionate about building and developing soft
 ## 💬 Ask me about  
 - **Web Development**  
 - **Backend Development**  
+- **Machine Learning & Data Analysis**  
 - **Firebase Authentication**
 
 ## 📫 How to reach me  
