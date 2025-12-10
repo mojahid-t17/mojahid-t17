@@ -22,7 +22,8 @@ I am a **Front End Web Developer** passionate about building and developing soft
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ## 🌱 I’m Currently Learning  
-- **Machine Learning | Deep learning**  
+- **Advanced ML techniques and data visualization**
+- **Research projects involving Machine learning and Deep learning**
 
 ## 💬 Ask me about  
 - **Web Development**  
@@ -50,6 +51,7 @@ I am a **Front End Web Developer** passionate about building and developing soft
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mojahid-t17&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid-t17)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
